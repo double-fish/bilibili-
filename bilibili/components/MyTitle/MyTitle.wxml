@@ -1,0 +1,15 @@
+<view class="my_title">
+<navigator class="logo">
+  <image class="logo_img" style="width: 140rpx;height: 60rpx;" src="../../icons/logo.png"></image>
+</navigator>
+<view class="serach_icon" >
+  <image style="width:50rpx;height: 50rpx;" src="../../icons/search.png"/>
+</view>
+<view class="user_icon" >
+  <image style="width: 54rpx;height: 54rpx;border-radius: 50%;" src="../../icons/user.png"/>
+</view>
+<view class="down_app">
+  下载 APP
+</view>
+</view>
+
